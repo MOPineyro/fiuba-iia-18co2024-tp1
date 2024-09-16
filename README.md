@@ -36,7 +36,7 @@ Este trabajo práctico implementa una solución para el problema de la Torre de 
 
 ### Contacto
 
-Para cualquier consulta o comentario, por favor contactar a Manuel Pineyro.
+Para cualquier consulta o comentario, por favor contactar a [Manuel Pineyro](mopineyro@gmail.com).
 
 ---
 
