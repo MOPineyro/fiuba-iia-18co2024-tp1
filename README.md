@@ -1,4 +1,4 @@
-# Torre de Hanoi - IDDFS / Tower of Hanoi - IDDFS
+# Torre de Hanoi - A\* / Tower of Hanoi - A\*
 
 [English version below]
 
@@ -11,11 +11,11 @@ Este repositorio contiene la solución para el Trabajo Práctico 1 de la materia
 
 ### Descripción
 
-Este trabajo práctico implementa una solución para el problema de la Torre de Hanoi utilizando el algoritmo de Búsqueda en Profundidad Iterativa (IDDFS - Iterative Deepening Depth-First Search).
+Este trabajo práctico implementa una solución para el problema de la Torre de Hanoi utilizando el algoritmo de busqueda A\*.
 
 ### Contenido del Repositorio
 
-- `torre_de_hanoi_iddfs.ipynb`: Jupyter Notebook con la implementación y análisis del algoritmo IDDFS para resolver la Torre de Hanoi.
+- `tower_of_hanoi_a_star.ipynb`: Jupyter Notebook con la implementación y análisis del algoritmo A\* para resolver la Torre de Hanoi.
 - `requirements.txt`: Archivo con las dependencias necesarias para ejecutar el notebook.
 
 ### Instrucciones de Uso
@@ -32,7 +32,7 @@ Este trabajo práctico implementa una solución para el problema de la Torre de 
    pip install -r requirements.txt
    ```
 
-3. Abrir y ejecutar el notebook `torre_de_hanoi_iddfs.ipynb`.
+3. Abrir y ejecutar el notebook `tower_of_hanoi_a_star.ipynb`.
 
 ### Contacto
 
@@ -49,11 +49,11 @@ This repository contains the solution for Practical Assignment 1 of the Introduc
 
 ### Description
 
-This practical assignment implements a solution for the Tower of Hanoi problem using the Iterative Deepening Depth-First Search (IDDFS) algorithm.
+This practical assignment implements a solution for the Tower of Hanoi problem using the A\* algorithm.
 
 ### Repository Contents
 
-- `torre_de_hanoi_iddfs.ipynb`: Jupyter Notebook with the implementation and analysis of the IDDFS algorithm to solve the Tower of Hanoi.
+- `tower_of_hanoi_a_star.ipynb`: Jupyter Notebook with the implementation and analysis of the A\* algorithm to solve the Tower of Hanoi.
 - `requirements.txt`: File with the necessary dependencies to run the notebook.
 
 ### Usage Instructions
@@ -70,7 +70,7 @@ This practical assignment implements a solution for the Tower of Hanoi problem u
    pip install -r requirements.txt
    ```
 
-3. Open and run the `torre_de_hanoi_iddfs.ipynb` notebook.
+3. Open and run the `tower_of_hannoi_a_star.ipynb` notebook.
 
 ### Contact
 
