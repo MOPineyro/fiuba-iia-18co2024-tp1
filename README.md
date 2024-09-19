@@ -2,7 +2,7 @@
 
 [English version below]
 
-Este repositorio contiene la solución para el Trabajo Práctico 1 de la materia Introducción a Inteligencia Artificial (75.66) de la Facultad de Ingeniería de la Universidad de Buenos Aires (FIUBA).
+Este repositorio contiene la solución para el Trabajo Práctico 1 de la materia Introducción a Inteligencia Artificial de la Facultad de Ingeniería de la Universidad de Buenos Aires (FIUBA).
 
 ### Información del Curso
 
@@ -40,7 +40,7 @@ Para cualquier consulta o comentario, por favor contactar a [Manuel Pineyro](mop
 
 ---
 
-This repository contains the solution for Practical Assignment 1 of the Introduction to Artificial Intelligence course (75.66) at the Faculty of Engineering, University of Buenos Aires (FIUBA).
+This repository contains the solution for Practical Assignment 1 of the Introduction to Artificial Intelligence course at the Faculty of Engineering, University of Buenos Aires (FIUBA).
 
 ### Course Information
 
